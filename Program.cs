@@ -12,8 +12,8 @@ namespace Exercice_4
         {
             string type = "Monsieur";
             string name = "Vincent";
-            int date = 1;
-            Console.WriteLine("Bonjour " + type +" " + name + " nous somme le " + date + " du mois, comment allez-vous ?");
+            int visit = 1;
+            Console.WriteLine("Bonjour " + type +" " + name + " vous êtes venu nous rendre visite " + visit + " fois");
         }
     }
 }
